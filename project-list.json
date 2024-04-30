@@ -1,4 +1,197 @@
-{
+[
+  {
+    "id": 1,
+    "projectName": "Project 1",
+    "createdDate": "2024-04-30",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Task 1 for Project 1",
+        "deadline": "2024-05-10",
+        "dueDate": "2024-05-09",
+        "assignee": "John Doe",
+        "assignedMembers": ["John Doe", "Jane Smith"],
+        "status": "To Do"
+      },
+      {
+        "id": 2,
+        "description": "Task 2 for Project 1",
+        "deadline": "2024-05-15",
+        "dueDate": "2024-05-14",
+        "assignee": "Jane Smith",
+        "assignedMembers": ["Jane Smith", "Alice Johnson"],
+        "status": "In Progress"
+      }
+    ],
+    "teamMembers": ["John Doe", "Jane Smith", "Alice Johnson"],
+    "recentActivities": [
+      "John Doe added Task 1 for Project 1",
+      "Jane Smith started Task 2 for Project 1"
+    ]
+  },
+  {
+    "id": 2,
+    "projectName": "Project 2",
+    "createdDate": "2024-04-25",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Task 1 for Project 2",
+        "deadline": "2024-05-05",
+        "dueDate": "2024-05-04",
+        "assignee": "Alice Johnson",
+        "assignedMembers": ["Alice Johnson", "Bob Brown"],
+        "status": "Done"
+      }
+    ],
+    "teamMembers": ["Alice Johnson", "Bob Brown", "Charlie Green"],
+    "recentActivities": ["Alice Johnson completed Task 1 for Project 2"]
+  },
+  {
+    "id": 3,
+    "projectName": "Project 3",
+    "createdDate": "2024-04-20",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Task 1 for Project 3",
+        "deadline": "2024-05-08",
+        "dueDate": "2024-05-07",
+        "assignee": "Bob Brown",
+        "assignedMembers": ["Bob Brown", "Charlie Green"],
+        "status": "To Do"
+      }
+    ],
+    "teamMembers": ["Bob Brown", "Charlie Green", "David White"],
+    "recentActivities": ["Bob Brown added Task 1 for Project 3"]
+  },
+  {
+    "id": 4,
+    "projectName": "Project 4",
+    "createdDate": "2024-04-15",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Task 1 for Project 4",
+        "deadline": "2024-05-20",
+        "dueDate": "2024-05-19",
+        "assignee": "Charlie Green",
+        "assignedMembers": ["Charlie Green", "David White"],
+        "status": "In Progress"
+      }
+    ],
+    "teamMembers": ["Charlie Green", "David White", "Emma Black"],
+    "recentActivities": ["Charlie Green started Task 1 for Project 4"]
+  },
+  {
+    "id": 5,
+    "projectName": "Project 5",
+    "createdDate": "2024-04-10",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Task 1 for Project 5",
+        "deadline": "2024-05-15",
+        "dueDate": "2024-05-14",
+        "assignee": "David White",
+        "assignedMembers": ["David White", "Emma Black"],
+        "status": "To Do"
+      }
+    ],
+    "teamMembers": ["David White", "Emma Black", "Frank Red"],
+    "recentActivities": ["David White added Task 1 for Project 5"]
+  },
+  {
+    "id": 6,
+    "projectName": "Project 6",
+    "createdDate": "2024-04-05",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Task 1 for Project 6",
+        "deadline": "2024-05-10",
+        "dueDate": "2024-05-09",
+        "assignee": "Emma Black",
+        "assignedMembers": ["Emma Black", "Frank Red"],
+        "status": "Done"
+      }
+    ],
+    "teamMembers": ["Emma Black", "Frank Red", "Grace Yellow"],
+    "recentActivities": ["Emma Black completed Task 1 for Project 6"]
+  },
+  {
+    "id": 7,
+    "projectName": "Project 7",
+    "createdDate": "2024-04-01",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Task 1 for Project 7",
+        "deadline": "2024-05-05",
+        "dueDate": "2024-05-04",
+        "assignee": "Frank Red",
+        "assignedMembers": ["Frank Red", "Grace Yellow"],
+        "status": "In Progress"
+      }
+    ],
+    "teamMembers": ["Frank Red", "Grace Yellow", "Hannah Blue"],
+    "recentActivities": ["Frank Red started Task 1 for Project 7"]
+  },
+  {
+    "id": 8,
+    "projectName": "Project 8",
+    "createdDate": "2024-03-27",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Task 1 for Project 8",
+        "deadline": "2024-05-08",
+        "dueDate": "2024-05-07",
+        "assignee": "Grace Yellow",
+        "assignedMembers": ["Grace Yellow", "Hannah Blue"],
+        "status": "To Do"
+      }
+    ],
+    "teamMembers": ["Grace Yellow", "Hannah Blue", "Ian Purple"],
+    "recentActivities": ["Grace Yellow added Task 1 for Project 8"]
+  },
+  {
+    "id": 9,
+    "projectName": "Project 9",
+    "createdDate": "2024-03-22",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Task 1 for Project 9",
+        "deadline": "2024-05-20",
+        "dueDate": "2024-05-19",
+        "assignee": "Hannah Blue",
+        "assignedMembers": ["Hannah Blue", "Ian Purple"],
+        "status": "Done"
+      }
+    ],
+    "teamMembers": ["Hannah Blue", "Ian Purple", "Jack Orange"],
+    "recentActivities": ["Hannah Blue completed Task 1 for Project 9"]
+  },
+  {
+    "id": 10,
+    "projectName": "Project 10",
+    "createdDate": "2024-03-18",
+    "tasks": [
+      {
+        "id": 1,
+        "description": "Task 1 for Project 10",
+        "deadline": "2024-05-15",
+        "dueDate": "2024-05-14",
+        "assignee": "Ian Purple",
+        "assignedMembers": ["Ian Purple", "Jack Orange"],
+        "status": "In Progress"
+      }
+    ],
+    "teamMembers": ["Ian Purple", "Jack Orange", "Kelly Brown"],
+    "recentActivities": ["Ian Purple started Task 1 for Project 10"]
+  },
+  {
     "id": 11,
     "projectName": "Project 11",
     "createdDate": "2024-03-15",
@@ -178,3 +371,4 @@
     "teamMembers": ["Samantha Green", "Thomas Red", "Ulysses Yellow"],
     "recentActivities": ["Samantha Green added Task 1 for Project 20"]
   }
+]
