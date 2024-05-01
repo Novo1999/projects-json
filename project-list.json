@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "projectName": "Project 1",
-    "createdDate": "2024-04-30",
+    "projectName": "Social Media Analytics Dashboard",
+    "createdDate": "2024-05-01",
     "tasks": [
       {
         "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 1",
+        "title": "Data Collection",
+        "description": "Collect data from various social media platforms for analysis.",
         "deadline": "2024-05-10",
         "dueDate": "2024-05-09",
         "assignee": "John Doe",
@@ -19,8 +19,8 @@
       },
       {
         "id": 2,
-        "title": "Task 2",
-        "description": "Task 2 for Project 1",
+        "title": "Dashboard Design",
+        "description": "Design an intuitive and visually appealing dashboard for data visualization.",
         "deadline": "2024-05-15",
         "dueDate": "2024-05-14",
         "assignee": "Jane Smith",
@@ -37,19 +37,19 @@
       "Alice Johnson"
     ],
     "recentActivities": [
-      "John Doe added Task 1 for Project 1",
-      "Jane Smith started Task 2 for Project 1"
+      "John Doe added Data Collection task",
+      "Jane Smith started Dashboard Design task"
     ]
   },
   {
     "id": 2,
-    "projectName": "Project 2",
+    "projectName": "Inventory Management System",
     "createdDate": "2024-04-25",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 2",
+        "id": 3,
+        "title": "Database Design",
+        "description": "Design the database schema for storing inventory data.",
         "deadline": "2024-05-05",
         "dueDate": "2024-05-04",
         "assignee": "Alice Johnson",
@@ -66,18 +66,18 @@
       "Charlie Green"
     ],
     "recentActivities": [
-      "Alice Johnson completed Task 1 for Project 2"
+      "Alice Johnson completed Database Design task"
     ]
   },
   {
     "id": 3,
-    "projectName": "Project 3",
+    "projectName": "Customer Relationship Management Software",
     "createdDate": "2024-04-20",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 3",
+        "id": 4,
+        "title": "Client Data Import",
+        "description": "Import existing client data into the CRM system for initial setup.",
         "deadline": "2024-05-08",
         "dueDate": "2024-05-07",
         "assignee": "Bob Brown",
@@ -94,18 +94,18 @@
       "David White"
     ],
     "recentActivities": [
-      "Bob Brown added Task 1 for Project 3"
+      "Bob Brown added Client Data Import task"
     ]
   },
   {
     "id": 4,
-    "projectName": "Project 4",
+    "projectName": "Task Management Application",
     "createdDate": "2024-04-15",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 4",
+        "id": 5,
+        "title": "User Interface Design",
+        "description": "Design a user-friendly interface for managing tasks and projects.",
         "deadline": "2024-05-20",
         "dueDate": "2024-05-19",
         "assignee": "Charlie Green",
@@ -122,18 +122,18 @@
       "Emma Black"
     ],
     "recentActivities": [
-      "Charlie Green started Task 1 for Project 4"
+      "Charlie Green started User Interface Design task"
     ]
   },
   {
     "id": 5,
-    "projectName": "Project 5",
+    "projectName": "Online Learning Platform",
     "createdDate": "2024-04-10",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 5",
+        "id": 6,
+        "title": "Content Creation",
+        "description": "Create engaging and informative content for online courses.",
         "deadline": "2024-05-15",
         "dueDate": "2024-05-14",
         "assignee": "David White",
@@ -150,18 +150,18 @@
       "Frank Red"
     ],
     "recentActivities": [
-      "David White added Task 1 for Project 5"
+      "David White added Content Creation task"
     ]
   },
   {
     "id": 6,
-    "projectName": "Project 6",
+    "projectName": "Digital Marketing Campaign",
     "createdDate": "2024-04-05",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 6",
+        "id": 7,
+        "title": "Campaign Strategy Planning",
+        "description": "Develop a comprehensive strategy for the digital marketing campaign.",
         "deadline": "2024-05-10",
         "dueDate": "2024-05-09",
         "assignee": "Emma Black",
@@ -178,18 +178,18 @@
       "Grace Yellow"
     ],
     "recentActivities": [
-      "Emma Black completed Task 1 for Project 6"
+      "Emma Black completed Campaign Strategy Planning task"
     ]
   },
   {
     "id": 7,
-    "projectName": "Project 7",
+    "projectName": "Event Management Software",
     "createdDate": "2024-04-01",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 7",
+        "id": 8,
+        "title": "Event Registration System",
+        "description": "Develop a system for managing event registrations and ticketing.",
         "deadline": "2024-05-05",
         "dueDate": "2024-05-04",
         "assignee": "Frank Red",
@@ -206,18 +206,18 @@
       "Hannah Blue"
     ],
     "recentActivities": [
-      "Frank Red started Task 1 for Project 7"
+      "Frank Red started Event Registration System task"
     ]
   },
   {
     "id": 8,
-    "projectName": "Project 8",
+    "projectName": "Finance Management Application",
     "createdDate": "2024-03-27",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 8",
+        "id": 9,
+        "title": "Expense Tracking Feature",
+        "description": "Implement a feature for tracking and categorizing expenses.",
         "deadline": "2024-05-08",
         "dueDate": "2024-05-07",
         "assignee": "Grace Yellow",
@@ -234,18 +234,18 @@
       "Ian Purple"
     ],
     "recentActivities": [
-      "Grace Yellow added Task 1 for Project 8"
+      "Grace Yellow added Expense Tracking Feature task"
     ]
   },
   {
     "id": 9,
-    "projectName": "Project 9",
+    "projectName": "Project Management Tool",
     "createdDate": "2024-03-22",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 9",
+        "id": 10,
+        "title": "Task Assignment Module",
+        "description": "Develop a module for assigning tasks to team members.",
         "deadline": "2024-05-20",
         "dueDate": "2024-05-19",
         "assignee": "Hannah Blue",
@@ -262,18 +262,18 @@
       "Jack Orange"
     ],
     "recentActivities": [
-      "Hannah Blue completed Task 1 for Project 9"
+      "Hannah Blue completed Task Assignment Module task"
     ]
   },
   {
     "id": 10,
-    "projectName": "Project 10",
+    "projectName": "Inventory Tracking System",
     "createdDate": "2024-03-18",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 10",
+        "id": 11,
+        "title": "Barcode Scanning Integration",
+        "description": "Integrate barcode scanning functionality for easy inventory management.",
         "deadline": "2024-05-15",
         "dueDate": "2024-05-14",
         "assignee": "Ian Purple",
@@ -290,18 +290,18 @@
       "Kelly Brown"
     ],
     "recentActivities": [
-      "Ian Purple started Task 1 for Project 10"
+      "Ian Purple started Barcode Scanning Integration task"
     ]
   },
   {
     "id": 11,
-    "projectName": "Project 11",
+    "projectName": "Online Marketplace Platform",
     "createdDate": "2024-03-15",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 11",
+        "id": 12,
+        "title": "Vendor Management System",
+        "description": "Develop a system for managing vendors and product listings.",
         "deadline": "2024-05-10",
         "dueDate": "2024-05-09",
         "assignee": "Jack Orange",
@@ -318,18 +318,18 @@
       "Liam Green"
     ],
     "recentActivities": [
-      "Jack Orange added Task 1 for Project 11"
+      "Jack Orange added Vendor Management System task"
     ]
   },
   {
     "id": 12,
-    "projectName": "Project 12",
+    "projectName": "Appointment Scheduling Application",
     "createdDate": "2024-03-10",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 12",
+        "id": 13,
+        "title": "Calendar Integration",
+        "description": "Integrate calendar functionality for scheduling appointments.",
         "deadline": "2024-05-05",
         "dueDate": "2024-05-04",
         "assignee": "Kelly Brown",
@@ -346,18 +346,18 @@
       "Mia Red"
     ],
     "recentActivities": [
-      "Kelly Brown completed Task 1 for Project 12"
+      "Kelly Brown completed Calendar Integration task"
     ]
   },
   {
     "id": 13,
-    "projectName": "Project 13",
+    "projectName": "Customer Support Ticketing System",
     "createdDate": "2024-03-05",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 13",
+        "id": 14,
+        "title": "Ticket Assignment Algorithm",
+        "description": "Develop an algorithm for automatically assigning tickets to support agents.",
         "deadline": "2024-05-20",
         "dueDate": "2024-05-19",
         "assignee": "Liam Green",
@@ -374,20 +374,20 @@
       "Noah Yellow"
     ],
     "recentActivities": [
-      "Liam Green started Task 1 for Project 13"
+      "Liam Green started Ticket Assignment Algorithm task"
     ]
   },
   {
     "id": 14,
-    "projectName": "Project 14",
+    "projectName": "Document Management System",
     "createdDate": "2024-03-01",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 14",
-        "deadline": "2024-05-08",
-        "dueDate": "2024-05-07",
+        "id": 15,
+        "title": "Document Versioning",
+        "description": "Implement version control for managing document revisions.",
+        "deadline": "2024-05-15",
+        "dueDate": "2024-05-14",
         "assignee": "Mia Red",
         "assignedMembers": [
           "Mia Red",
@@ -399,178 +399,178 @@
     "teamMembers": [
       "Mia Red",
       "Noah Yellow",
-      "Olivia Brown"
+      "Olivia Green"
     ],
     "recentActivities": [
-      "Mia Red added Task 1 for Project 14"
+      "Mia Red added Document Versioning task"
     ]
   },
   {
     "id": 15,
-    "projectName": "Project 15",
+    "projectName": "HR Management System",
     "createdDate": "2024-02-25",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 15",
-        "deadline": "2024-05-15",
-        "dueDate": "2024-05-14",
+        "id": 16,
+        "title": "Employee Onboarding Module",
+        "description": "Develop a module for managing employee onboarding processes.",
+        "deadline": "2024-05-10",
+        "dueDate": "2024-05-09",
         "assignee": "Noah Yellow",
         "assignedMembers": [
           "Noah Yellow",
-          "Olivia Brown"
+          "Olivia Green"
         ],
         "status": "Done"
       }
     ],
     "teamMembers": [
       "Noah Yellow",
-      "Olivia Brown",
-      "Peter Green"
+      "Olivia Green",
+      "Peter Blue"
     ],
     "recentActivities": [
-      "Noah Yellow completed Task 1 for Project 15"
+      "Noah Yellow completed Employee Onboarding Module task"
     ]
   },
   {
     "id": 16,
-    "projectName": "Project 16",
+    "projectName": "Blog Publishing Platform",
     "createdDate": "2024-02-20",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 16",
-        "deadline": "2024-05-10",
-        "dueDate": "2024-05-09",
-        "assignee": "Olivia Brown",
+        "id": 17,
+        "title": "Content Management System",
+        "description": "Develop a CMS for managing blog posts and content.",
+        "deadline": "2024-05-05",
+        "dueDate": "2024-05-04",
+        "assignee": "Olivia Green",
         "assignedMembers": [
-          "Olivia Brown",
-          "Peter Green"
+          "Olivia Green",
+          "Peter Blue"
         ],
         "status": "In Progress"
       }
     ],
     "teamMembers": [
-      "Olivia Brown",
-      "Peter Green",
-      "Quinn Black"
+      "Olivia Green",
+      "Peter Blue",
+      "Quinn Red"
     ],
     "recentActivities": [
-      "Olivia Brown started Task 1 for Project 16"
+      "Olivia Green started Content Management System task"
     ]
   },
   {
     "id": 17,
-    "projectName": "Project 17",
+    "projectName": "Supply Chain Management Software",
     "createdDate": "2024-02-15",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 17",
-        "deadline": "2024-05-05",
-        "dueDate": "2024-05-04",
-        "assignee": "Peter Green",
+        "id": 18,
+        "title": "Inventory Tracking Module",
+        "description": "Develop a module for tracking inventory across the supply chain.",
+        "deadline": "2024-05-20",
+        "dueDate": "2024-05-19",
+        "assignee": "Peter Blue",
         "assignedMembers": [
-          "Peter Green",
-          "Quinn Black"
+          "Peter Blue",
+          "Quinn Red"
         ],
         "status": "To Do"
       }
     ],
     "teamMembers": [
-      "Peter Green",
-      "Quinn Black",
+      "Peter Blue",
+      "Quinn Red",
       "Rachel Yellow"
     ],
     "recentActivities": [
-      "Peter Green added Task 1 for Project 17"
+      "Peter Blue added Inventory Tracking Module task"
     ]
   },
   {
     "id": 18,
-    "projectName": "Project 18",
+    "projectName": "Virtual Event Platform",
     "createdDate": "2024-02-10",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 18",
-        "deadline": "2024-05-20",
-        "dueDate": "2024-05-19",
-        "assignee": "Quinn Black",
+        "id": 19,
+        "title": "Live Streaming Integration",
+        "description": "Integrate live streaming functionality for virtual events.",
+        "deadline": "2024-05-15",
+        "dueDate": "2024-05-14",
+        "assignee": "Quinn Red",
         "assignedMembers": [
-          "Quinn Black",
+          "Quinn Red",
           "Rachel Yellow"
         ],
         "status": "Done"
       }
     ],
     "teamMembers": [
-      "Quinn Black",
+      "Quinn Red",
       "Rachel Yellow",
-      "Samantha Green"
+      "Sam Green"
     ],
     "recentActivities": [
-      "Quinn Black completed Task 1 for Project 18"
+      "Quinn Red completed Live Streaming Integration task"
     ]
   },
   {
     "id": 19,
-    "projectName": "Project 19",
+    "projectName": "Task Tracking Application",
     "createdDate": "2024-02-05",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 19",
-        "deadline": "2024-05-15",
-        "dueDate": "2024-05-14",
+        "id": 20,
+        "title": "Task Prioritization Algorithm",
+        "description": "Develop an algorithm for prioritizing tasks based on urgency and importance.",
+        "deadline": "2024-05-10",
+        "dueDate": "2024-05-09",
         "assignee": "Rachel Yellow",
         "assignedMembers": [
           "Rachel Yellow",
-          "Samantha Green"
+          "Sam Green"
         ],
         "status": "In Progress"
       }
     ],
     "teamMembers": [
       "Rachel Yellow",
-      "Samantha Green",
-      "Thomas Red"
+      "Sam Green",
+      "Tom Blue"
     ],
     "recentActivities": [
-      "Rachel Yellow started Task 1 for Project 19"
+      "Rachel Yellow started Task Prioritization Algorithm task"
     ]
   },
   {
     "id": 20,
-    "projectName": "Project 20",
+    "projectName": "CRM Integration Platform",
     "createdDate": "2024-02-01",
     "tasks": [
       {
-        "id": 1,
-        "title": "Task 1",
-        "description": "Task 1 for Project 20",
-        "deadline": "2024-05-08",
-        "dueDate": "2024-05-07",
-        "assignee": "Samantha Green",
+        "id": 21,
+        "title": "Integration with CRM Systems",
+        "description": "Develop integration capabilities with popular CRM systems.",
+        "deadline": "2024-05-05",
+        "dueDate": "2024-05-04",
+        "assignee": "Sam Green",
         "assignedMembers": [
-          "Samantha Green",
-          "Thomas Red"
+          "Sam Green",
+          "Tom Blue"
         ],
         "status": "To Do"
       }
     ],
     "teamMembers": [
-      "Samantha Green",
-      "Thomas Red",
-      "Ulysses Yellow"
+      "Sam Green",
+      "Tom Blue",
+      "Uma Red"
     ],
     "recentActivities": [
-      "Samantha Green added Task 1 for Project 20"
+      "Sam Green added Integration with CRM Systems task"
     ]
   }
 ]
